@@ -1,0 +1,20 @@
+
+/***查询2018级选修C语言且成绩小于60分的学生***/
+#Id   Name     Sex    Birthday   SchoolYear  Birthplace  
+10914 dahong   Female 1993/2 /3  2018        guangdong   
+
+/***查询平均分大于80的学生***/   
+#Id   Name     Sex    Birthday   SchoolYear  Birthplace  
+10917 xingfeng Female 1995/2 /4  2017        jiangsu     
+#Id   Name     Sex    Birthday   SchoolYear  Birthplace  
+10919 xiaomi   Male   1993/2 /5  2016        beijing     
+#Id   Name     Sex    Birthday   SchoolYear  Birthplace  
+10921 dabin    Female 1992/2 /6  2015        hainan      
+
+/***查询已修学分超过12分的同学***/
+#Id   Name     Sex    Birthday   SchoolYear  Birthplace  
+10917 xingfeng Female 1995/2 /4  2017        jiangsu     
+#Id   Name     Sex    Birthday   SchoolYear  Birthplace  
+10919 xiaomi   Male   1993/2 /5  2016        beijing     
+#Id   Name     Sex    Birthday   SchoolYear  Birthplace  
+10921 dabin    Female 1992/2 /6  2015        hainan      
